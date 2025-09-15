@@ -1,6 +1,0 @@
-#include<studio.h>
-Int main()
-{
-printf("adamas University");
-return 0;
-}
